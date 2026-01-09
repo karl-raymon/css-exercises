@@ -24,5 +24,6 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 32px;
+  /* My solution works but the correct answer is auto as horizontal margins push element to other side for example margin-right: auto; it will push the element to the left */
   margin-left: 330px;
 }
